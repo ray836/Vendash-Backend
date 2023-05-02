@@ -4,8 +4,7 @@
   "description": "",
   "main": "src/app.js",
   "scripts": {
-    "start": "node .",
-    "build": "tsc"
+    "start": "node ."
   },
   "author": "",
   "license": "ISC",
